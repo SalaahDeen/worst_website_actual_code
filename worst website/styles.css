@@ -1,0 +1,74 @@
+
+#addedpadding {
+    padding: 15px;
+
+    border-left: red 5px dotted;
+    border-right: red 5px dotted;
+    border-top: orange 5px dotted;
+    border-bottom: orange 5px dotted;
+}
+
+
+#morepadding {
+    padding: 15px;
+
+    border-left: yellow 5px dotted;
+    border-right: yellow 5px dotted;
+    border-top: orange 5px dotted;
+    border-bottom: orange 5px dotted;
+}
+
+#lastpadding {
+    padding: 35px;
+
+    border-left: saddlebrown 5px dotted;
+    border-right: saddlebrown 5px dotted;
+    border-top: forestgreen 5px dotted;
+    border-bottom: forestgreen 5px dotted;
+}
+
+#headborder {
+    border-color:salmon;
+    border-style: double;
+    border-width: 6px;
+}
+
+#headbordertwo {
+    border-color:purple;
+    border-style: double;
+    border-width: 6px;
+}
+
+#couplemargins {
+    margin: 10px;
+    float: outside;
+}
+
+#floatationdevice {
+    float: right;
+}
+
+#relativeleft {
+    position: relative;
+    left: 30px;
+}
+
+h6 {
+    position: absolute;
+    left:120px;
+    top: 1750px;
+}
+
+h3 {
+    position: absolute;
+    left: 275px;
+    top: 800px;
+}
+
+
+
+h1 {
+    color: yellowgreen;
+}
+
+body {color:blue; font-size:35px;}
